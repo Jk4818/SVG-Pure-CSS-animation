@@ -1,6 +1,6 @@
 ﻿# SVG-Pure-CSS-animation
 
-A simple css translation animation on SVG elements. This is example is made using a fader as example.
+A simple css translation animation on SVG elements. This example is made using a fader as the example.
 
 
 # Files
